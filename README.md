@@ -1,4 +1,4 @@
-### Hols, I'am Pratik! 👋
+### Hola, I'am Pratik! 👋
 
 Here are some ideas to get you started:
 
