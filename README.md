@@ -1,6 +1,6 @@
 ### Hola, I'am Pratik! 👋
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on React Native.
 - 🌱 I’m currently learning  Node js, Express and MongoDB
