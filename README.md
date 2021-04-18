@@ -1,7 +1,8 @@
 ### Hola, I'am Pratik! 👋
 
+    
 
-
+- 🔭 I’m Self-taught developer
 - 🔭 I’m currently working on React Native.
 - 🌱 I’m currently learning  Node js, Express and MongoDB
 - 👯 I’m looking to collaborate on Projects on React Native
