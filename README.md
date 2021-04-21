@@ -3,9 +3,9 @@
     
 
 - 🔭 I’m Self-taught developer
-- 🔭 I’m currently working on React Native.
+- 🔭 I’m currently working on React Native and React js.
 - 🌱 I’m currently learning  Node js, Express and MongoDB
-- 👯 I’m looking to collaborate on Projects on React Native
+- 👯 I’m looking to collaborate on Projects on React Native and React js.
 - 💬 Ask me about React js, React Native and  Node js.
 - 📫 How to reach me: Mail: Pratikpatre1996@gmail.com
 - 😄 Pronouns: He/His
