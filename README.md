@@ -2,7 +2,7 @@
 
     
 
-- 🔭 I’m Self-taught developer
+##🔭 I’m Self-taught developer and I'am Looking for a Entry Level opportunities
 - 🔭 I’m currently working on React Native and React js.
 - 🌱 I’m currently learning  Node js, Express and MongoDB
 - 👯 I’m looking to collaborate on Projects on React Native and React js.
