@@ -1,7 +1,7 @@
 ### Hola, I'am Pratik! 👋
 
     
-     I’m Self-taught developer and I'am Looking for a Entry Level opportunities 🤞.
+      I'am Looking for a Entry Level opportunities 🤞.
 
 
 - 🔭 I’m currently working on React Native and React js.
