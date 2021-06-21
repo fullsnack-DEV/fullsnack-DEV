@@ -2,6 +2,7 @@
 
     
       I'am Looking for a Entry Level opportunities 🤞.
+      Feel free to drop me a mail at  pratikpatre2019@gmail.com
 
 
 - 🔭 I’m currently working on React Native and React js.
