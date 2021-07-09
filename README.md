@@ -1,7 +1,7 @@
 ### Hola, I'am Pratik! 👋
 
     
-      I'am Looking for a Entry Level opportunities 🤞.
+      Open for opportunities 🤞.
       Feel free to drop me a mail at  pratikpatre2019@gmail.com
 
 
