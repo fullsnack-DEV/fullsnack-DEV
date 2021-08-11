@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on React Native and React js.
 - 🌱 I’m currently learning  Node js, Express and MongoDB
 - 👯 I’m looking to collaborate on Projects on React Native and React js.
-- 💬 Ask me about React js, React Native and  Node js.
 - 📫 How to reach me: Mail: Pratikpatre2019@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Watch Animes💖
