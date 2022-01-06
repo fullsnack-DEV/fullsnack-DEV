@@ -1,4 +1,4 @@
-### Hola, I'am Pratik! 👋
+### Hola, I'am Prateek! 👋
 
     
       Open for opportunities 🤞.
