@@ -1,4 +1,4 @@
- <h1  align='center' > Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+ <h1  align='center' > Hola < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 <p align="center">
@@ -17,7 +17,23 @@
 -->
 
 ## 😊 stats    
-<p align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullsnack-DEV&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats) </p> 
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+
+   <p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Prateek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fullsnack-DEV&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <p align="right" >
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fullsnack-DEV&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fullsnack-DEV" height="192px"/>
+ </p>
+ 
+ 
+ 
+
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
     
     
 ## 🔥 Streak Stats
