@@ -1,9 +1,12 @@
-### Hola, I'am Prateek! 👋
+ <h1  align='center' > Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat+Sleep+Code+Repeat;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p
 
     
-      Open for opportunities 🤞.
-      Feel free to drop me a mail at  pratikpatre2019@gmail.com
-
+     
 
 - 🔭 I’m currently working on React Native and React js.
 - 🌱 I’m currently learning  Node js, Express and MongoDB
@@ -12,6 +15,12 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Watch Animes💖
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=fullsnack-DEV&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullsnack-DEV)](https://github.com/anuraghazra/github-readme-stats)
+## 😊 stats    
+<p align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullsnack-DEV&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats) </p> 
+    
+    
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fullsnack-DEV&theme=algolia" alt="fullsnack-DEV"  /></p>    
+
+
