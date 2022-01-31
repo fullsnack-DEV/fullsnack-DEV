@@ -5,9 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat+Sleep+Code+Repeat;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p
 
-    
-     
-
 - 🔭 I’m currently working on React Native and React js.
 - 🌱 I’m currently learning  Node js, Express and MongoDB
 - 👯 I’m looking to collaborate on Projects on React Native and React js.
@@ -20,18 +17,15 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-
-   <p align="left">
+ 
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Prateek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fullsnack-DEV&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  <p align="right" >
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fullsnack-DEV&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fullsnack-DEV" height="192px"/>
- </p>
- 
- 
- 
+ <br/>	
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fullsnack-DEV&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fullsnack-DEV" height="192px"/>
+</p>
 
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
     
