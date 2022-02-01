@@ -32,6 +32,10 @@
     
     
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fullsnack-DEV&theme=algolia" alt="fullsnack-DEV"  /></p>    
+<p align="center">
+    <a href="https://github.com/fullsnack-DEV/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prateek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fullsnack-DEV&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
