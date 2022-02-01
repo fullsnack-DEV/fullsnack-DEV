@@ -1,4 +1,7 @@
- <h1  align='center' > Hola < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+ 
+ <p align="center"><img width="40%" src="./src/assets/Frame3.png" /></p>
+ 
+ 
 
  <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
  
@@ -22,6 +25,11 @@
  ![](https://komarev.com/ghpvc/?username=fullsnack-DEV&color=blueviolet)
  
  <p align="left"> <a href="https://twitter.com/Pratiik125" target="blank"><img src="https://img.shields.io/twitter/follow/Pratiik125?logo=twitter&style=for-the-badge" alt="Pratiik125" /></a> </p>
+ 
+ ## ⚛️ Tech Blog
+ 
+  <p align="left"> <a  href="https://pratieek.hashnode.dev/" > <img width="20%" src="./src/assets/brand-full-white.png" /> </a> </p>
+ 
  
  ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
