@@ -44,15 +44,6 @@
 
  
 
-## 😊 stats    
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
- 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Prateek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fullsnack-DEV&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
- 
-
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fullsnack-DEV&show_icons=true&locale=en&layout=compact&theme=dark" alt="fullsnack-DEV" height="192px"/>
 </p>
 
