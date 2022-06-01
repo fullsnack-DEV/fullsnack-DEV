@@ -31,7 +31,7 @@
   <p align="left"> <a  href="https://pratieek.hashnode.dev/" > <img width="20%" height="20%" src="./src/assets/brand-full-white.png" /> </a> </p>
  
  
- ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height: "30px >
+ ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height: "30px" >
 
 <p align="center">
 
