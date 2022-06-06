@@ -30,6 +30,9 @@
  
   <p align="left"> <a  href="https://pratieek.hashnode.dev/" > <img width="20%" height="20%" src="./src/assets/brand-full-white.png" /> </a> </p>
  
+  [![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullsnack-DEV&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+ 
  
  ## Connect with me 
 
